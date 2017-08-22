@@ -1,0 +1,71 @@
+{
+  "1": {
+    "name": "Иван Петров",
+    "status": "online"
+  },
+  "2": {
+    "name": "Петр Иванов",
+    "status": "online"
+  },
+  "3": {
+    "name": "Сидор Сидоров",
+    "status": "online"
+  },
+  "7": {
+    "name": "Вася Васечкин",
+    "status": "online"
+  },
+  "10": {
+    "name": "Дормидонт Онуфриевич",
+    "status": "online"
+  },
+  "15": {
+    "name": "Безымянный",
+    "status": "online"
+  },
+  "75": {
+    "name": "Глеб Жеглов",
+    "status": "online"
+  },
+  "79": {
+    "name": "Алан Тьюринг",
+    "status": "online"
+  },
+  "83": {
+    "name": "Уитфилд Диффи",
+    "status": "offline"
+  },
+  "94": {
+    "name": "Мартин Хеллманом",
+    "status": "online"
+  },
+  "106": {
+    "name": "Рональд Ривест",
+    "status": "online"
+  },
+  "205": {
+    "name": "Ади Шамир",
+    "status": "online"
+  },
+  "206": {
+    "name": "Ада Лавлейс",
+    "status": "offline"
+  },
+  "314": {
+    "name": "Дональд Кнут",
+    "status": "online"
+  },
+  "325": {
+    "name": "Стивен Прата",
+    "status": "online"
+  },
+  "366": {
+    "name": "Антон Носик",
+    "status": "offline"
+  },
+  "386": {
+    "name": "Курт Кобейн",
+    "status": "offline"
+  }
+}
+

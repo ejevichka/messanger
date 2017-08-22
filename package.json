@@ -1,0 +1,29 @@
+{
+  "name": "webpack-react-run-example",
+  "version": "1.0.2",
+  "description": "To run react with jsx on the webpack quickly",
+  "scripts": {
+    "test": "webpack-dev-server --progress --color"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/onceaweeq/webpack-react-run-example.git"
+  },
+  "keywords": [
+    "webpack",
+    "react",
+    "example",
+    "messages",
+    "environment"
+  ],
+  "author": "test",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ejevichka/messanger.git"
+  },
+  "homepage": "https://github.com/ejevichka/messanger.git",
+  "dependencies": {
+    "jsx-loader": "^0.13.2",
+    "react": "^0.13.3"
+  }
+}
